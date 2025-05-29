@@ -1,8 +1,6 @@
 # 🧠 LegalEase: Smarter Legal Document Summarizer
 
-LegalEase is an AI-powered web application that helps users *upload large legal PDF files* and receive *structured summaries, clause highlights, and a **smart glossary* for simplified understanding. Built to make contracts easier to read, interpret, and reference — all in seconds.
-
-🚀 Designed during a 48-hour hackathon with a focus on accessibility, legal insight, and responsible AI usage.
+LegalEase is an AI-powered web application that helps users *upload large legal PDF files* and receive *structured summaries, clause highlights, and a **smart glossary* for simplified understanding. Built to make contracts easier to read, interpret, and reference.
 
 ---
 
@@ -44,18 +42,18 @@ LegalEase is an AI-powered web application that helps users *upload large legal 
 
 ## 🎯 Use Cases
 
-- 🧾 Contract Analysis
-- 📚 Legal Education
-- 🕵 Research Assistance
-- 🧑‍⚖ Early-stage Legal Review
+- Contract Analysis
+- Legal Education
+- Research Assistance
+- Early-stage Legal Review
 
 ---
 
 ## 🚧 Limitations
 
-- ❗ AI-based summaries may miss context — always consult a legal expert.
-- 🧠 Currently supports English-language PDFs only.
-- ⏱ Large documents (~200MB) may take longer processing time on CPU.
+- AI-based summaries may miss context — always consult a legal expert.
+- Currently supports English-language PDFs only.
+- Large documents (~200MB) may take longer processing time on CPU.
 
 ---
 
