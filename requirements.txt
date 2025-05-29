@@ -1,0 +1,8 @@
+streamlit
+transformers
+torch
+sentencepiece
+PyMuPDF
+regex
+scikit-learn
+numpy
